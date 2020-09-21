@@ -7,5 +7,6 @@ p {
 }
 
 .hi_there {
+    color: #000;
     font-size: larger;
 }
